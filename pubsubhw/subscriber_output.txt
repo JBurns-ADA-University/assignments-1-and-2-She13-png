@@ -1,0 +1,55 @@
+PS C:\Users\DIZAYN\OneDrive - Azerbaijan State Oil and Industry University\Desktop\pubsubhw> python sub0.py
+sub id 0 started.
+[sub0] rules loaded
+[sub0] listening.
+[sub0] INFO: User user774 logged in
+[sub0] INFO: User user787 created shared folder
+[sub0] WARN: Suspicious repeated login attempts for user694
+[sub0] WARN: Suspicious repeated login attempts for user984
+[sub0] WARN: Suspicious repeated login attempts for user239
+[sub0] WARN: Suspicious repeated login attempts for user503
+[sub0] WARN: Suspicious repeated login attempts for user994
+[sub0] INFO: User user574 logged in
+[sub0] INFO: User user574 logged in
+[sub0] WARN: Suspicious repeated login attempts for user578
+[sub0] WARN: Suspicious repeated login attempts for user990
+[sub0] WARN: Suspicious repeated login attempts for user240
+[sub0] WARN: Suspicious repeated login attempts for user235
+[sub0] WARN: Suspicious repeated login attempts for user753
+[sub0] INFO: User user887 created shared folder
+[sub0] DEBUG: Preloaded configuration for user447
+[sub0] DEBUG: Background sync finished for user618
+[sub0] DEBUG: Preloaded configuration for user413
+[sub0] DEBUG: Background sync finished for user684
+[sub0] DEBUG: Background sync finished for user503
+[sub0] DEBUG: Background sync finished for user571
+[sub0] ERROR: Failed to update settings for user277
+[sub0] WARN: Suspicious repeated login attempts for user694
+[sub0] INFO: User user774 logged in
+[sub0] ERROR: Failed to update settings for user985
+[sub0] ERROR: Failed to update settings for user483
+[sub0] ERROR: Failed to update settings for user133
+[sub0] ERROR: Failed to update settings for user546
+[sub0] DEBUG: Preloaded configuration for user509
+[sub0] DEBUG: Background sync finished for user576
+[sub0] DEBUG: Preloaded configuration for user413
+[sub0] DEBUG: Background sync finished for user684
+[sub0] DEBUG: Background sync finished for user503
+[sub0] DEBUG: Preloaded configuration for user616
+[sub0] DEBUG: Preloaded configuration for user231
+[sub0] DEBUG: Preloaded configuration for user719
+[sub0] DEBUG: Background sync finished for user175
+[sub0] DEBUG: Background sync finished for user571
+[sub0] DEBUG: Preloaded configuration for user509
+[sub0] rules loaded
+[sub0] WARN: Suspicious repeated login attempts for user578
+[sub0] DEBUG: Preloaded configuration for user616
+[sub0] rules loaded
+[sub0] ERROR: Failed to update settings for user985
+[sub0] rules loaded
+[sub0] DEBUG: Background sync finished for user576
+[sub0] rules loaded
+[sub0] rules loaded
+[sub0] WARN: Suspicious repeated login attempts for user990
+[sub0] rules loaded
+[sub0] DEBUG: Background sync finished for user175
